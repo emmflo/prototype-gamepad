@@ -1,0 +1,234 @@
+Cmp-Mod V01 Created by Cvpcb (2015-01-27 BZR 5390)-product   date = mer. 28 janv. 2015 18:04:00 CET
+
+BeginCmp
+TimeStamp = /54C4BFED;
+Reference = JMP0;
+ValeurCmp = JUMPERS_8X2;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x08;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C4C308;
+Reference = JMP1;
+ValeurCmp = JUMPERS_8X2;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x08;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C4C981;
+Reference = JMP2;
+ValeurCmp = TOP_RIGHT_8X2;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x08;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C4C989;
+Reference = JMP3;
+ValeurCmp = TOP_RIGHT_8X2;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x08;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C4C7C8;
+Reference = JMP4;
+ValeurCmp = JUMPERS_8X2;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x08;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C4C7D0;
+Reference = JMP5;
+ValeurCmp = JUMPERS_8X2;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x08;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C4C99B;
+Reference = JMP6;
+ValeurCmp = BOTTOM_RIGHT_8X2;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x08;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C4C9A3;
+Reference = JMP7;
+ValeurCmp = BOTTOM_RIGHT_8X2;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x08;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C2C249;
+Reference = P0;
+ValeurCmp = TOP_LEFT_8X2;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x08;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C4C9B1;
+Reference = P1;
+ValeurCmp = TOP_LEFT_8;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x08;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C4C97B;
+Reference = P2;
+ValeurCmp = TOP_RIGHT_8X2;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x08;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C4CADE;
+Reference = P3;
+ValeurCmp = TOP_RIGHT_8;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x08;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C4C7C2;
+Reference = P4;
+ValeurCmp = BOTTOM_LEFT_8X2;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x08;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C4C995;
+Reference = P5;
+ValeurCmp = BOTTOM_RIGHT_8X2;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x08;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C4CE7C;
+Reference = P6;
+ValeurCmp = TRIGGER_LEFT_8;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x08;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C4F036;
+Reference = P7;
+ValeurCmp = TRIGGER_RIGHT_8;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x08;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C4FD54;
+Reference = P8;
+ValeurCmp = CONN_20;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x20;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C4FD6D;
+Reference = P9;
+ValeurCmp = CONN_20;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x20;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C4FDCC;
+Reference = P10;
+ValeurCmp = CONN_14;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x14;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C4F429;
+Reference = SW0;
+ValeurCmp = SW_START;
+IdModule  = Buttons_Switches_ThroughHole:SW_PUSH_SMALL;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C4F438;
+Reference = SW1;
+ValeurCmp = SW_SELECT;
+IdModule  = Buttons_Switches_ThroughHole:SW_PUSH_SMALL;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C4F4A2;
+Reference = SW2;
+ValeurCmp = SW_HOME;
+IdModule  = Buttons_Switches_ThroughHole:SW_PUSH_SMALL;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C504D9;
+Reference = SW3;
+ValeurCmp = SW_ONBOARD_L_TRIGGER;
+IdModule  = Buttons_Switches_ThroughHole:SW_PUSH_SMALL;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C504E8;
+Reference = SW4;
+ValeurCmp = SW_ONBOARD_R_TRIGGER;
+IdModule  = Buttons_Switches_ThroughHole:SW_PUSH_SMALL;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C5047B;
+Reference = SW5;
+ValeurCmp = SW_ONBOARD_UP;
+IdModule  = prototype-gamepad:SW_RUBBER_PCB_CONTACT;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C5048A;
+Reference = SW6;
+ValeurCmp = SW_ONBOARD_LEFT;
+IdModule  = prototype-gamepad:SW_RUBBER_PCB_CONTACT;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C504A8;
+Reference = SW7;
+ValeurCmp = SW_ONBOARD_DOWN;
+IdModule  = prototype-gamepad:SW_RUBBER_PCB_CONTACT;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C50499;
+Reference = SW8;
+ValeurCmp = SW_ONBOARD_RIGHT;
+IdModule  = prototype-gamepad:SW_RUBBER_PCB_CONTACT;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C504BF;
+Reference = SW9;
+ValeurCmp = SW_ONBOARD_X;
+IdModule  = prototype-gamepad:SW_RUBBER_PCB_CONTACT;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C504C5;
+Reference = SW10;
+ValeurCmp = SW_ONBOARD_Y;
+IdModule  = prototype-gamepad:SW_RUBBER_PCB_CONTACT;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C504D1;
+Reference = SW11;
+ValeurCmp = SW_ONBOARD_B;
+IdModule  = prototype-gamepad:SW_RUBBER_PCB_CONTACT;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C504CB;
+Reference = SW12;
+ValeurCmp = SW_ONBOARD_A;
+IdModule  = prototype-gamepad:SW_RUBBER_PCB_CONTACT;
+EndCmp
+
+BeginCmp
+TimeStamp = /54C2C1D9;
+Reference = U0;
+ValeurCmp = TEENSYPP2;
+IdModule  = prototype-gamepad:TEENSYPP2;
+EndCmp
+
+EndListe

@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name Buttons_Switches_ThroughHole)(type Github)(uri https://github.com/KiCad/Buttons_Switches_ThroughHole.pretty)(options "")(descr ""))
+  (lib (name Pin_Arrays)(type Github)(uri https://github.com/KiCad/Pin_Arrays.pretty)(options "")(descr ""))
+  (lib (name Pin_Headers)(type Github)(uri https://github.com/KiCad/Pin_Headers.pretty)(options "")(descr ""))
+  (lib (name prototype-gamepad)(type KiCad)(uri ${KIPRJMOD}/prototype-gamepad.pretty)(options "")(descr ""))
+)

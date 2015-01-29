@@ -1,0 +1,988 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>/home/emmflo/prototype-gamepad/prototype-gamepad.sch</source>
+    <date>mer. 28 janv. 2015 15:54:11 CET</date>
+    <tool>Eeschema (2015-01-27 BZR 5390)-product</tool>
+  </design>
+  <components>
+    <comp ref="U0">
+      <value>TEENSYPP2</value>
+      <footprint>MODULE</footprint>
+      <datasheet>DOCUMENTATION</datasheet>
+      <libsource lib="TEENSYPP2" part="TEENSYPP2"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54C2C1D9</tstamp>
+    </comp>
+    <comp ref="P0">
+      <value>TOP_LEFT_8X2</value>
+      <libsource lib="conn" part="CONN_8X2"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54C2C249</tstamp>
+    </comp>
+    <comp ref="JMP0">
+      <value>JUMPERS_8X2</value>
+      <libsource lib="conn" part="CONN_8X2"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54C4BFED</tstamp>
+    </comp>
+    <comp ref="JMP1">
+      <value>JUMPERS_8X2</value>
+      <libsource lib="conn" part="CONN_8X2"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54C4C308</tstamp>
+    </comp>
+    <comp ref="P4">
+      <value>BOTTOM_LEFT_8X2</value>
+      <libsource lib="conn" part="CONN_8X2"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54C4C7C2</tstamp>
+    </comp>
+    <comp ref="JMP4">
+      <value>JUMPERS_8X2</value>
+      <libsource lib="conn" part="CONN_8X2"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54C4C7C8</tstamp>
+    </comp>
+    <comp ref="JMP5">
+      <value>JUMPERS_8X2</value>
+      <libsource lib="conn" part="CONN_8X2"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54C4C7D0</tstamp>
+    </comp>
+    <comp ref="P2">
+      <value>TOP_RIGHT_8X2</value>
+      <libsource lib="conn" part="CONN_8X2"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54C4C97B</tstamp>
+    </comp>
+    <comp ref="JMP2">
+      <value>TOP_RIGHT_8X2</value>
+      <libsource lib="conn" part="CONN_8X2"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54C4C981</tstamp>
+    </comp>
+    <comp ref="JMP3">
+      <value>TOP_RIGHT_8X2</value>
+      <libsource lib="conn" part="CONN_8X2"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54C4C989</tstamp>
+    </comp>
+    <comp ref="P5">
+      <value>BOTTOM_RIGHT_8X2</value>
+      <libsource lib="conn" part="CONN_8X2"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54C4C995</tstamp>
+    </comp>
+    <comp ref="JMP6">
+      <value>BOTTOM_RIGHT_8X2</value>
+      <libsource lib="conn" part="CONN_8X2"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54C4C99B</tstamp>
+    </comp>
+    <comp ref="JMP7">
+      <value>BOTTOM_RIGHT_8X2</value>
+      <libsource lib="conn" part="CONN_8X2"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54C4C9A3</tstamp>
+    </comp>
+    <comp ref="P1">
+      <value>TOP_LEFT_8</value>
+      <libsource lib="conn" part="CONN_8"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54C4C9B1</tstamp>
+    </comp>
+    <comp ref="P3">
+      <value>TOP_RIGHT_8</value>
+      <libsource lib="conn" part="CONN_8"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54C4CADE</tstamp>
+    </comp>
+    <comp ref="P6">
+      <value>TRIGGER_LEFT_8</value>
+      <libsource lib="conn" part="CONN_8"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54C4CE7C</tstamp>
+    </comp>
+    <comp ref="P7">
+      <value>TRIGGER_RIGHT_8</value>
+      <libsource lib="conn" part="CONN_8"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54C4F036</tstamp>
+    </comp>
+    <comp ref="SW0">
+      <value>SW_START</value>
+      <libsource lib="device" part="SW_PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54C4F429</tstamp>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_SELECT</value>
+      <libsource lib="device" part="SW_PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54C4F438</tstamp>
+    </comp>
+    <comp ref="SW2">
+      <value>SW_HOME</value>
+      <libsource lib="device" part="SW_PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54C4F4A2</tstamp>
+    </comp>
+    <comp ref="P8">
+      <value>CONN_20</value>
+      <libsource lib="conn" part="CONN_20"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54C4FD54</tstamp>
+    </comp>
+    <comp ref="P9">
+      <value>CONN_20</value>
+      <libsource lib="conn" part="CONN_20"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54C4FD6D</tstamp>
+    </comp>
+    <comp ref="P10">
+      <value>CONN_14</value>
+      <libsource lib="conn" part="CONN_14"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54C4FDCC</tstamp>
+    </comp>
+    <comp ref="SW5">
+      <value>SW_ONBOARD_UP</value>
+      <libsource lib="device" part="SW_PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54C5047B</tstamp>
+    </comp>
+    <comp ref="SW6">
+      <value>SW_ONBOARD_LEFT</value>
+      <libsource lib="device" part="SW_PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54C5048A</tstamp>
+    </comp>
+    <comp ref="SW8">
+      <value>SW_ONBOARD_RIGHT</value>
+      <libsource lib="device" part="SW_PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54C50499</tstamp>
+    </comp>
+    <comp ref="SW7">
+      <value>SW_ONBOARD_DOWN</value>
+      <libsource lib="device" part="SW_PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54C504A8</tstamp>
+    </comp>
+    <comp ref="SW9">
+      <value>SW_ONBOARD_X</value>
+      <libsource lib="device" part="SW_PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54C504BF</tstamp>
+    </comp>
+    <comp ref="SW10">
+      <value>SW_ONBOARD_Y</value>
+      <libsource lib="device" part="SW_PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54C504C5</tstamp>
+    </comp>
+    <comp ref="SW12">
+      <value>SW_ONBOARD_A</value>
+      <libsource lib="device" part="SW_PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54C504CB</tstamp>
+    </comp>
+    <comp ref="SW11">
+      <value>SW_ONBOARD_B</value>
+      <libsource lib="device" part="SW_PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54C504D1</tstamp>
+    </comp>
+    <comp ref="SW3">
+      <value>SW_ONBOARD_L_TRIGGER</value>
+      <libsource lib="device" part="SW_PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54C504D9</tstamp>
+    </comp>
+    <comp ref="SW4">
+      <value>SW_ONBOARD_R_TRIGGER</value>
+      <libsource lib="device" part="SW_PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>54C504E8</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="conn" part="CONN_14">
+      <description>Symbole general de connexion</description>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_14</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+        <pin num="4" name="P4" type="passive"/>
+        <pin num="5" name="P5" type="passive"/>
+        <pin num="6" name="P6" type="passive"/>
+        <pin num="7" name="P7" type="passive"/>
+        <pin num="8" name="P8" type="passive"/>
+        <pin num="9" name="P9" type="passive"/>
+        <pin num="10" name="P10" type="passive"/>
+        <pin num="11" name="P11" type="passive"/>
+        <pin num="12" name="P12" type="passive"/>
+        <pin num="13" name="P13" type="passive"/>
+        <pin num="14" name="P14" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="CONN_20">
+      <description>Symbole general de connexion</description>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_20</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+        <pin num="4" name="P4" type="passive"/>
+        <pin num="5" name="P5" type="passive"/>
+        <pin num="6" name="P6" type="passive"/>
+        <pin num="7" name="P7" type="passive"/>
+        <pin num="8" name="P8" type="passive"/>
+        <pin num="9" name="P9" type="passive"/>
+        <pin num="10" name="P10" type="passive"/>
+        <pin num="11" name="P11" type="passive"/>
+        <pin num="12" name="P12" type="passive"/>
+        <pin num="13" name="P13" type="passive"/>
+        <pin num="14" name="P14" type="passive"/>
+        <pin num="15" name="P15" type="passive"/>
+        <pin num="16" name="P16" type="passive"/>
+        <pin num="17" name="P17" type="passive"/>
+        <pin num="18" name="P18" type="passive"/>
+        <pin num="19" name="P19" type="passive"/>
+        <pin num="20" name="P20" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="TEENSYPP2" part="TEENSYPP2">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TEENSYPP2</field>
+        <field name="Footprint">MODULE</field>
+        <field name="Datasheet">DOCUMENTATION</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="PB7" type="BiDi"/>
+        <pin num="3" name="PD0" type="BiDi"/>
+        <pin num="4" name="PD1" type="BiDi"/>
+        <pin num="5" name="PD2" type="BiDi"/>
+        <pin num="6" name="PD3" type="BiDi"/>
+        <pin num="7" name="PD4" type="BiDi"/>
+        <pin num="8" name="PD5" type="BiDi"/>
+        <pin num="9" name="PD6" type="BiDi"/>
+        <pin num="10" name="PD7" type="BiDi"/>
+        <pin num="11" name="PE0" type="BiDi"/>
+        <pin num="12" name="PE1" type="BiDi"/>
+        <pin num="13" name="PC0" type="BiDi"/>
+        <pin num="14" name="PC1" type="BiDi"/>
+        <pin num="15" name="PC2" type="BiDi"/>
+        <pin num="16" name="PC3" type="BiDi"/>
+        <pin num="17" name="PC4" type="BiDi"/>
+        <pin num="18" name="PC5" type="BiDi"/>
+        <pin num="19" name="PC6" type="BiDi"/>
+        <pin num="20" name="PC7" type="BiDi"/>
+        <pin num="21" name="VCC" type="power_in"/>
+        <pin num="22" name="GND" type="power_in"/>
+        <pin num="23" name="RST" type="input"/>
+        <pin num="24" name="PA4" type="BiDi"/>
+        <pin num="25" name="PA0" type="BiDi"/>
+        <pin num="26" name="PA5" type="BiDi"/>
+        <pin num="27" name="PA1" type="BiDi"/>
+        <pin num="28" name="PA6" type="BiDi"/>
+        <pin num="29" name="PA2" type="BiDi"/>
+        <pin num="30" name="ALE" type="BiDi"/>
+        <pin num="31" name="PA7" type="BiDi"/>
+        <pin num="32" name="PA3" type="BiDi"/>
+        <pin num="33" name="PF7" type="BiDi"/>
+        <pin num="34" name="PF6" type="BiDi"/>
+        <pin num="35" name="PF5" type="BiDi"/>
+        <pin num="36" name="PF4" type="BiDi"/>
+        <pin num="37" name="PF3" type="BiDi"/>
+        <pin num="38" name="PF2" type="BiDi"/>
+        <pin num="39" name="PF1" type="BiDi"/>
+        <pin num="40" name="PF0" type="BiDi"/>
+        <pin num="41" name="AREF" type="input"/>
+        <pin num="42" name="GND" type="power_in"/>
+        <pin num="43" name="PE6" type="BiDi"/>
+        <pin num="44" name="PE7" type="BiDi"/>
+        <pin num="45" name="PB0" type="BiDi"/>
+        <pin num="46" name="PB1" type="BiDi"/>
+        <pin num="47" name="PB2" type="BiDi"/>
+        <pin num="48" name="PB3" type="BiDi"/>
+        <pin num="49" name="PB4" type="BiDi"/>
+        <pin num="50" name="PB5" type="BiDi"/>
+        <pin num="51" name="PB6" type="BiDi"/>
+        <pin num="52" name="VCC" type="power_in"/>
+        <pin num="53" name="PE4" type="BiDi"/>
+        <pin num="54" name="PE5" type="BiDi"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="SW_PUSH">
+      <description>Push Button</description>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_PUSH</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="CONN_8X2">
+      <description>ymbole general de connecteur</description>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_8X2</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+        <pin num="3" name="~" type="passive"/>
+        <pin num="4" name="~" type="passive"/>
+        <pin num="5" name="~" type="passive"/>
+        <pin num="6" name="~" type="passive"/>
+        <pin num="7" name="~" type="passive"/>
+        <pin num="8" name="~" type="passive"/>
+        <pin num="9" name="~" type="passive"/>
+        <pin num="10" name="~" type="passive"/>
+        <pin num="11" name="~" type="passive"/>
+        <pin num="12" name="~" type="passive"/>
+        <pin num="13" name="~" type="passive"/>
+        <pin num="14" name="~" type="passive"/>
+        <pin num="15" name="~" type="passive"/>
+        <pin num="16" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="CONN_8">
+      <description>Symbole general de connecteur</description>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_8</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+        <pin num="4" name="P4" type="passive"/>
+        <pin num="5" name="P5" type="passive"/>
+        <pin num="6" name="P6" type="passive"/>
+        <pin num="7" name="P7" type="passive"/>
+        <pin num="8" name="P8" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="TEENSYPP2">
+      <uri>/home/emmflo/prototype-gamepad/kicad-lib/TEENSYPP2.lib</uri>
+    </library>
+    <library logical="device">
+      <uri>/usr/share/kicad/library/device.lib</uri>
+    </library>
+    <library logical="conn">
+      <uri>/usr/share/kicad/library/conn.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/VCC">
+      <node ref="JMP4" pin="1"/>
+      <node ref="P6" pin="1"/>
+      <node ref="JMP6" pin="1"/>
+      <node ref="P7" pin="1"/>
+      <node ref="JMP2" pin="1"/>
+      <node ref="JMP0" pin="1"/>
+      <node ref="P9" pin="1"/>
+      <node ref="U0" pin="52"/>
+    </net>
+    <net code="2" name="/PF6">
+      <node ref="U0" pin="34"/>
+      <node ref="JMP2" pin="7"/>
+      <node ref="P9" pin="19"/>
+      <node ref="P7" pin="2"/>
+      <node ref="JMP6" pin="3"/>
+    </net>
+    <net code="3" name="/PD4">
+      <node ref="SW4" pin="1"/>
+      <node ref="P8" pin="7"/>
+      <node ref="U0" pin="7"/>
+      <node ref="P7" pin="6"/>
+    </net>
+    <net code="4" name="/PD5">
+      <node ref="U0" pin="8"/>
+      <node ref="P8" pin="8"/>
+      <node ref="P7" pin="7"/>
+    </net>
+    <net code="5" name="/PD6">
+      <node ref="SW0" pin="1"/>
+      <node ref="P8" pin="9"/>
+      <node ref="U0" pin="9"/>
+      <node ref="JMP7" pin="16"/>
+    </net>
+    <net code="6" name="/GND">
+      <node ref="P3" pin="8"/>
+      <node ref="P1" pin="3"/>
+      <node ref="P3" pin="6"/>
+      <node ref="JMP0" pin="15"/>
+      <node ref="P6" pin="8"/>
+      <node ref="P3" pin="7"/>
+      <node ref="P3" pin="1"/>
+      <node ref="P3" pin="2"/>
+      <node ref="P3" pin="3"/>
+      <node ref="P3" pin="4"/>
+      <node ref="P3" pin="5"/>
+      <node ref="SW4" pin="2"/>
+      <node ref="SW6" pin="2"/>
+      <node ref="SW8" pin="2"/>
+      <node ref="SW7" pin="2"/>
+      <node ref="SW9" pin="2"/>
+      <node ref="SW5" pin="2"/>
+      <node ref="SW12" pin="2"/>
+      <node ref="SW11" pin="2"/>
+      <node ref="SW3" pin="2"/>
+      <node ref="SW10" pin="2"/>
+      <node ref="P7" pin="8"/>
+      <node ref="SW0" pin="2"/>
+      <node ref="SW1" pin="2"/>
+      <node ref="P8" pin="1"/>
+      <node ref="SW2" pin="2"/>
+      <node ref="JMP2" pin="15"/>
+      <node ref="JMP6" pin="15"/>
+      <node ref="JMP4" pin="15"/>
+      <node ref="U0" pin="1"/>
+      <node ref="P1" pin="6"/>
+      <node ref="P1" pin="5"/>
+      <node ref="P1" pin="4"/>
+      <node ref="P1" pin="2"/>
+      <node ref="P1" pin="1"/>
+      <node ref="P1" pin="7"/>
+      <node ref="P1" pin="8"/>
+    </net>
+    <net code="7" name="/PD7">
+      <node ref="U0" pin="10"/>
+      <node ref="P8" pin="10"/>
+      <node ref="SW1" pin="1"/>
+    </net>
+    <net code="8" name="/PE5">
+      <node ref="P10" pin="2"/>
+      <node ref="JMP7" pin="10"/>
+      <node ref="U0" pin="54"/>
+    </net>
+    <net code="9" name="Net-(JMP7-Pad11)">
+      <node ref="JMP7" pin="11"/>
+      <node ref="P5" pin="12"/>
+    </net>
+    <net code="10" name="/PE6">
+      <node ref="P9" pin="10"/>
+      <node ref="JMP7" pin="12"/>
+      <node ref="U0" pin="43"/>
+    </net>
+    <net code="11" name="Net-(JMP7-Pad13)">
+      <node ref="JMP7" pin="13"/>
+      <node ref="P5" pin="14"/>
+    </net>
+    <net code="12" name="/PE7">
+      <node ref="P9" pin="9"/>
+      <node ref="U0" pin="44"/>
+      <node ref="JMP7" pin="14"/>
+    </net>
+    <net code="13" name="Net-(JMP7-Pad15)">
+      <node ref="P5" pin="16"/>
+      <node ref="JMP7" pin="15"/>
+    </net>
+    <net code="14" name="/PF2">
+      <node ref="JMP4" pin="3"/>
+      <node ref="P6" pin="2"/>
+      <node ref="U0" pin="38"/>
+      <node ref="JMP0" pin="7"/>
+      <node ref="P9" pin="15"/>
+    </net>
+    <net code="15" name="/PF3">
+      <node ref="JMP4" pin="5"/>
+      <node ref="P6" pin="3"/>
+      <node ref="P9" pin="16"/>
+      <node ref="JMP0" pin="9"/>
+      <node ref="U0" pin="37"/>
+    </net>
+    <net code="16" name="/PD0">
+      <node ref="JMP0" pin="11"/>
+      <node ref="JMP4" pin="11"/>
+      <node ref="JMP6" pin="11"/>
+      <node ref="JMP2" pin="11"/>
+      <node ref="U0" pin="3"/>
+      <node ref="SW9" pin="1"/>
+      <node ref="P7" pin="4"/>
+      <node ref="P6" pin="4"/>
+      <node ref="P8" pin="3"/>
+    </net>
+    <net code="17" name="/PD1">
+      <node ref="U0" pin="4"/>
+      <node ref="P7" pin="5"/>
+      <node ref="JMP4" pin="13"/>
+      <node ref="P8" pin="4"/>
+      <node ref="P6" pin="5"/>
+      <node ref="JMP6" pin="13"/>
+      <node ref="JMP2" pin="13"/>
+      <node ref="JMP0" pin="13"/>
+    </net>
+    <net code="18" name="/PD2">
+      <node ref="P6" pin="6"/>
+      <node ref="U0" pin="5"/>
+      <node ref="SW3" pin="1"/>
+      <node ref="P8" pin="5"/>
+    </net>
+    <net code="19" name="/PD3">
+      <node ref="P6" pin="7"/>
+      <node ref="P8" pin="6"/>
+      <node ref="U0" pin="6"/>
+    </net>
+    <net code="20" name="/RST">
+      <node ref="U0" pin="23"/>
+      <node ref="P10" pin="12"/>
+    </net>
+    <net code="21" name="/GND2">
+      <node ref="P10" pin="13"/>
+      <node ref="U0" pin="22"/>
+    </net>
+    <net code="22" name="/VCC1">
+      <node ref="P10" pin="14"/>
+      <node ref="U0" pin="21"/>
+    </net>
+    <net code="23" name="/GND1">
+      <node ref="P9" pin="11"/>
+      <node ref="U0" pin="42"/>
+    </net>
+    <net code="24" name="/AREF">
+      <node ref="U0" pin="41"/>
+      <node ref="P9" pin="12"/>
+    </net>
+    <net code="25" name="/PF0">
+      <node ref="U0" pin="40"/>
+      <node ref="JMP4" pin="7"/>
+      <node ref="P9" pin="13"/>
+      <node ref="JMP0" pin="3"/>
+    </net>
+    <net code="26" name="/PF1">
+      <node ref="JMP0" pin="5"/>
+      <node ref="U0" pin="39"/>
+      <node ref="JMP4" pin="9"/>
+      <node ref="P9" pin="14"/>
+    </net>
+    <net code="27" name="Net-(JMP7-Pad9)">
+      <node ref="P5" pin="10"/>
+      <node ref="JMP7" pin="9"/>
+    </net>
+    <net code="28" name="Net-(JMP0-Pad10)">
+      <node ref="P0" pin="9"/>
+      <node ref="JMP0" pin="10"/>
+    </net>
+    <net code="29" name="Net-(JMP0-Pad12)">
+      <node ref="P0" pin="11"/>
+      <node ref="JMP0" pin="12"/>
+    </net>
+    <net code="30" name="Net-(JMP0-Pad14)">
+      <node ref="JMP0" pin="14"/>
+      <node ref="P0" pin="13"/>
+    </net>
+    <net code="31" name="Net-(JMP0-Pad16)">
+      <node ref="JMP0" pin="16"/>
+      <node ref="P0" pin="15"/>
+    </net>
+    <net code="32" name="Net-(JMP1-Pad7)">
+      <node ref="P0" pin="8"/>
+      <node ref="JMP1" pin="7"/>
+    </net>
+    <net code="33" name="Net-(JMP1-Pad1)">
+      <node ref="JMP1" pin="1"/>
+      <node ref="P0" pin="2"/>
+    </net>
+    <net code="34" name="/PA0">
+      <node ref="JMP1" pin="2"/>
+      <node ref="SW5" pin="1"/>
+      <node ref="U0" pin="25"/>
+      <node ref="P10" pin="10"/>
+    </net>
+    <net code="35" name="Net-(JMP1-Pad3)">
+      <node ref="P0" pin="4"/>
+      <node ref="JMP1" pin="3"/>
+    </net>
+    <net code="36" name="/PA1">
+      <node ref="SW6" pin="1"/>
+      <node ref="U0" pin="27"/>
+      <node ref="JMP1" pin="4"/>
+      <node ref="P10" pin="8"/>
+    </net>
+    <net code="37" name="Net-(JMP1-Pad5)">
+      <node ref="P0" pin="6"/>
+      <node ref="JMP1" pin="5"/>
+    </net>
+    <net code="38" name="/PA2">
+      <node ref="JMP1" pin="6"/>
+      <node ref="P10" pin="6"/>
+      <node ref="U0" pin="29"/>
+      <node ref="SW7" pin="1"/>
+    </net>
+    <net code="39" name="/PA3">
+      <node ref="JMP1" pin="8"/>
+      <node ref="U0" pin="32"/>
+      <node ref="P10" pin="3"/>
+      <node ref="SW8" pin="1"/>
+    </net>
+    <net code="40" name="Net-(JMP1-Pad9)">
+      <node ref="JMP1" pin="9"/>
+      <node ref="P0" pin="10"/>
+    </net>
+    <net code="41" name="/PA4">
+      <node ref="JMP1" pin="10"/>
+      <node ref="P10" pin="11"/>
+      <node ref="U0" pin="24"/>
+    </net>
+    <net code="42" name="Net-(JMP1-Pad11)">
+      <node ref="JMP1" pin="11"/>
+      <node ref="P0" pin="12"/>
+    </net>
+    <net code="43" name="/PA5">
+      <node ref="JMP1" pin="12"/>
+      <node ref="P10" pin="9"/>
+      <node ref="U0" pin="26"/>
+    </net>
+    <net code="44" name="Net-(JMP1-Pad13)">
+      <node ref="P0" pin="14"/>
+      <node ref="JMP1" pin="13"/>
+    </net>
+    <net code="45" name="/PA6">
+      <node ref="JMP1" pin="14"/>
+      <node ref="P10" pin="7"/>
+      <node ref="U0" pin="28"/>
+    </net>
+    <net code="46" name="Net-(JMP1-Pad15)">
+      <node ref="JMP1" pin="15"/>
+      <node ref="P0" pin="16"/>
+    </net>
+    <net code="47" name="/PA7">
+      <node ref="P10" pin="4"/>
+      <node ref="U0" pin="31"/>
+      <node ref="JMP1" pin="16"/>
+    </net>
+    <net code="48" name="Net-(JMP0-Pad8)">
+      <node ref="P0" pin="7"/>
+      <node ref="JMP0" pin="8"/>
+    </net>
+    <net code="49" name="Net-(JMP0-Pad6)">
+      <node ref="P0" pin="5"/>
+      <node ref="JMP0" pin="6"/>
+    </net>
+    <net code="50" name="Net-(JMP0-Pad2)">
+      <node ref="P0" pin="1"/>
+      <node ref="JMP0" pin="2"/>
+    </net>
+    <net code="51" name="Net-(JMP0-Pad4)">
+      <node ref="P0" pin="3"/>
+      <node ref="JMP0" pin="4"/>
+    </net>
+    <net code="52" name="/PB5">
+      <node ref="JMP3" pin="12"/>
+      <node ref="U0" pin="50"/>
+      <node ref="P9" pin="3"/>
+    </net>
+    <net code="53" name="Net-(JMP3-Pad3)">
+      <node ref="JMP3" pin="3"/>
+      <node ref="P2" pin="4"/>
+    </net>
+    <net code="54" name="/PB1">
+      <node ref="U0" pin="46"/>
+      <node ref="JMP3" pin="4"/>
+      <node ref="SW10" pin="1"/>
+      <node ref="P9" pin="7"/>
+    </net>
+    <net code="55" name="Net-(JMP3-Pad5)">
+      <node ref="P2" pin="6"/>
+      <node ref="JMP3" pin="5"/>
+    </net>
+    <net code="56" name="/PB2">
+      <node ref="U0" pin="47"/>
+      <node ref="JMP3" pin="6"/>
+      <node ref="P9" pin="6"/>
+      <node ref="SW11" pin="1"/>
+    </net>
+    <net code="57" name="Net-(JMP3-Pad7)">
+      <node ref="P2" pin="8"/>
+      <node ref="JMP3" pin="7"/>
+    </net>
+    <net code="58" name="/PB3">
+      <node ref="P9" pin="5"/>
+      <node ref="SW12" pin="1"/>
+      <node ref="JMP3" pin="8"/>
+      <node ref="U0" pin="48"/>
+    </net>
+    <net code="59" name="Net-(JMP3-Pad9)">
+      <node ref="JMP3" pin="9"/>
+      <node ref="P2" pin="10"/>
+    </net>
+    <net code="60" name="/PB4">
+      <node ref="U0" pin="49"/>
+      <node ref="P9" pin="4"/>
+      <node ref="JMP3" pin="10"/>
+    </net>
+    <net code="61" name="Net-(JMP3-Pad11)">
+      <node ref="P2" pin="12"/>
+      <node ref="JMP3" pin="11"/>
+    </net>
+    <net code="62" name="/PB0">
+      <node ref="JMP3" pin="2"/>
+      <node ref="P9" pin="8"/>
+      <node ref="U0" pin="45"/>
+    </net>
+    <net code="63" name="Net-(JMP3-Pad13)">
+      <node ref="JMP3" pin="13"/>
+      <node ref="P2" pin="14"/>
+    </net>
+    <net code="64" name="/PB6">
+      <node ref="JMP3" pin="14"/>
+      <node ref="P9" pin="2"/>
+      <node ref="U0" pin="51"/>
+    </net>
+    <net code="65" name="Net-(JMP3-Pad15)">
+      <node ref="JMP3" pin="15"/>
+      <node ref="P2" pin="16"/>
+    </net>
+    <net code="66" name="/PB7">
+      <node ref="JMP3" pin="16"/>
+      <node ref="P8" pin="2"/>
+      <node ref="SW2" pin="1"/>
+      <node ref="U0" pin="2"/>
+    </net>
+    <net code="67" name="Net-(JMP6-Pad2)">
+      <node ref="P5" pin="1"/>
+      <node ref="JMP6" pin="2"/>
+    </net>
+    <net code="68" name="Net-(JMP7-Pad1)">
+      <node ref="JMP7" pin="1"/>
+      <node ref="P5" pin="2"/>
+    </net>
+    <net code="69" name="Net-(JMP6-Pad4)">
+      <node ref="P5" pin="3"/>
+      <node ref="JMP6" pin="4"/>
+    </net>
+    <net code="70" name="Net-(JMP2-Pad10)">
+      <node ref="P2" pin="9"/>
+      <node ref="JMP2" pin="10"/>
+    </net>
+    <net code="71" name="Net-(JMP2-Pad2)">
+      <node ref="P2" pin="1"/>
+      <node ref="JMP2" pin="2"/>
+    </net>
+    <net code="72" name="/PF4">
+      <node ref="JMP2" pin="3"/>
+      <node ref="JMP6" pin="7"/>
+      <node ref="U0" pin="36"/>
+      <node ref="P9" pin="17"/>
+    </net>
+    <net code="73" name="Net-(JMP2-Pad4)">
+      <node ref="P2" pin="3"/>
+      <node ref="JMP2" pin="4"/>
+    </net>
+    <net code="74" name="/PF5">
+      <node ref="U0" pin="35"/>
+      <node ref="JMP2" pin="5"/>
+      <node ref="JMP6" pin="9"/>
+      <node ref="P9" pin="18"/>
+    </net>
+    <net code="75" name="Net-(JMP2-Pad6)">
+      <node ref="JMP2" pin="6"/>
+      <node ref="P2" pin="5"/>
+    </net>
+    <net code="76" name="Net-(JMP2-Pad8)">
+      <node ref="JMP2" pin="8"/>
+      <node ref="P2" pin="7"/>
+    </net>
+    <net code="77" name="Net-(JMP7-Pad3)">
+      <node ref="P5" pin="4"/>
+      <node ref="JMP7" pin="3"/>
+    </net>
+    <net code="78" name="Net-(JMP2-Pad12)">
+      <node ref="JMP2" pin="12"/>
+      <node ref="P2" pin="11"/>
+    </net>
+    <net code="79" name="Net-(JMP2-Pad14)">
+      <node ref="JMP2" pin="14"/>
+      <node ref="P2" pin="13"/>
+    </net>
+    <net code="80" name="Net-(JMP2-Pad16)">
+      <node ref="JMP2" pin="16"/>
+      <node ref="P2" pin="15"/>
+    </net>
+    <net code="81" name="Net-(JMP3-Pad1)">
+      <node ref="JMP3" pin="1"/>
+      <node ref="P2" pin="2"/>
+    </net>
+    <net code="82" name="Net-(JMP6-Pad8)">
+      <node ref="JMP6" pin="8"/>
+      <node ref="P5" pin="7"/>
+    </net>
+    <net code="83" name="Net-(JMP6-Pad10)">
+      <node ref="JMP6" pin="10"/>
+      <node ref="P5" pin="9"/>
+    </net>
+    <net code="84" name="Net-(JMP6-Pad12)">
+      <node ref="P5" pin="11"/>
+      <node ref="JMP6" pin="12"/>
+    </net>
+    <net code="85" name="Net-(JMP6-Pad14)">
+      <node ref="P5" pin="13"/>
+      <node ref="JMP6" pin="14"/>
+    </net>
+    <net code="86" name="Net-(JMP6-Pad16)">
+      <node ref="JMP6" pin="16"/>
+      <node ref="P5" pin="15"/>
+    </net>
+    <net code="87" name="/PE0">
+      <node ref="JMP7" pin="2"/>
+      <node ref="P8" pin="11"/>
+      <node ref="U0" pin="11"/>
+    </net>
+    <net code="88" name="/PE1">
+      <node ref="U0" pin="12"/>
+      <node ref="JMP7" pin="4"/>
+      <node ref="P8" pin="12"/>
+    </net>
+    <net code="89" name="Net-(JMP7-Pad5)">
+      <node ref="JMP7" pin="5"/>
+      <node ref="P5" pin="6"/>
+    </net>
+    <net code="90" name="/ALE">
+      <node ref="JMP7" pin="6"/>
+      <node ref="U0" pin="30"/>
+      <node ref="P10" pin="5"/>
+    </net>
+    <net code="91" name="Net-(JMP7-Pad7)">
+      <node ref="JMP7" pin="7"/>
+      <node ref="P5" pin="8"/>
+    </net>
+    <net code="92" name="/PE4">
+      <node ref="P10" pin="1"/>
+      <node ref="JMP7" pin="8"/>
+      <node ref="U0" pin="53"/>
+    </net>
+    <net code="93" name="Net-(JMP6-Pad6)">
+      <node ref="P5" pin="5"/>
+      <node ref="JMP6" pin="6"/>
+    </net>
+    <net code="94" name="/PF7">
+      <node ref="P9" pin="20"/>
+      <node ref="JMP6" pin="5"/>
+      <node ref="JMP2" pin="9"/>
+      <node ref="P7" pin="3"/>
+      <node ref="U0" pin="33"/>
+    </net>
+    <net code="95" name="Net-(JMP5-Pad13)">
+      <node ref="JMP5" pin="13"/>
+      <node ref="P4" pin="14"/>
+    </net>
+    <net code="96" name="Net-(JMP4-Pad16)">
+      <node ref="P4" pin="15"/>
+      <node ref="JMP4" pin="16"/>
+    </net>
+    <net code="97" name="Net-(JMP5-Pad15)">
+      <node ref="P4" pin="16"/>
+      <node ref="JMP5" pin="15"/>
+    </net>
+    <net code="98" name="Net-(JMP4-Pad2)">
+      <node ref="JMP4" pin="2"/>
+      <node ref="P4" pin="1"/>
+    </net>
+    <net code="99" name="Net-(JMP4-Pad4)">
+      <node ref="P4" pin="3"/>
+      <node ref="JMP4" pin="4"/>
+    </net>
+    <net code="100" name="Net-(JMP4-Pad6)">
+      <node ref="P4" pin="5"/>
+      <node ref="JMP4" pin="6"/>
+    </net>
+    <net code="101" name="Net-(JMP4-Pad14)">
+      <node ref="P4" pin="13"/>
+      <node ref="JMP4" pin="14"/>
+    </net>
+    <net code="102" name="Net-(JMP4-Pad8)">
+      <node ref="P4" pin="7"/>
+      <node ref="JMP4" pin="8"/>
+    </net>
+    <net code="103" name="Net-(JMP4-Pad10)">
+      <node ref="JMP4" pin="10"/>
+      <node ref="P4" pin="9"/>
+    </net>
+    <net code="104" name="Net-(JMP4-Pad12)">
+      <node ref="P4" pin="11"/>
+      <node ref="JMP4" pin="12"/>
+    </net>
+    <net code="105" name="Net-(JMP5-Pad3)">
+      <node ref="P4" pin="4"/>
+      <node ref="JMP5" pin="3"/>
+    </net>
+    <net code="106" name="Net-(JMP5-Pad1)">
+      <node ref="JMP5" pin="1"/>
+      <node ref="P4" pin="2"/>
+    </net>
+    <net code="107" name="Net-(JMP5-Pad5)">
+      <node ref="JMP5" pin="5"/>
+      <node ref="P4" pin="6"/>
+    </net>
+    <net code="108" name="Net-(JMP5-Pad7)">
+      <node ref="P4" pin="8"/>
+      <node ref="JMP5" pin="7"/>
+    </net>
+    <net code="109" name="Net-(JMP5-Pad9)">
+      <node ref="P4" pin="10"/>
+      <node ref="JMP5" pin="9"/>
+    </net>
+    <net code="110" name="Net-(JMP5-Pad11)">
+      <node ref="JMP5" pin="11"/>
+      <node ref="P4" pin="12"/>
+    </net>
+    <net code="111" name="/PC0">
+      <node ref="P8" pin="13"/>
+      <node ref="U0" pin="13"/>
+      <node ref="JMP5" pin="2"/>
+    </net>
+    <net code="112" name="/PC1">
+      <node ref="JMP5" pin="4"/>
+      <node ref="U0" pin="14"/>
+      <node ref="P8" pin="14"/>
+    </net>
+    <net code="113" name="/PC2">
+      <node ref="JMP5" pin="6"/>
+      <node ref="U0" pin="15"/>
+      <node ref="P8" pin="15"/>
+    </net>
+    <net code="114" name="/PC3">
+      <node ref="JMP5" pin="8"/>
+      <node ref="P8" pin="16"/>
+      <node ref="U0" pin="16"/>
+    </net>
+    <net code="115" name="/PC4">
+      <node ref="JMP5" pin="10"/>
+      <node ref="P8" pin="17"/>
+      <node ref="U0" pin="17"/>
+    </net>
+    <net code="116" name="/PC5">
+      <node ref="U0" pin="18"/>
+      <node ref="JMP5" pin="12"/>
+      <node ref="P8" pin="18"/>
+    </net>
+    <net code="117" name="/PC6">
+      <node ref="JMP5" pin="14"/>
+      <node ref="U0" pin="19"/>
+      <node ref="P8" pin="19"/>
+    </net>
+    <net code="118" name="/PC7">
+      <node ref="U0" pin="20"/>
+      <node ref="P8" pin="20"/>
+      <node ref="JMP5" pin="16"/>
+    </net>
+  </nets>
+</export>
